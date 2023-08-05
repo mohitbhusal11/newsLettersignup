@@ -1,6 +1,6 @@
 # newsLettersignup
 
-This Link is not working!
+To run or use this project you need to clone this project in your local setup and follow the below instructions
 
 
 You can clone this project in your local computer and install require packages using 
